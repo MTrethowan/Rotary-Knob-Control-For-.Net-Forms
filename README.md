@@ -154,11 +154,11 @@ Contributions are welcome! Please feel free to submit issues and pull requests.
 
 ### License
 
-[Your License Here - e.g., MIT, Apache 2.0, etc.]
+MIT
 
 ### Author
 
-[Your Name/Organization]
+Mike Trethowan
 
 ### Version History
 
